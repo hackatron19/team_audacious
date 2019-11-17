@@ -1,0 +1,28 @@
+body {
+
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+.navbar{
+color : white;
+}
+.profile-img{
+color: blue;
+font-family: 'Merriweather', serif;
+}
+
+.image1{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.image2{
+  display: block;
+  margin-left: 85px;
+  margin-right: 85px;
+  width: 50%;
+
+}
